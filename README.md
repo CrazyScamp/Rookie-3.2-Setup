@@ -61,6 +61,7 @@ BIG Thanks to the_vrSrc for the Database
 5. Select ```FROM FILE```
 
 6. Select the ```vrp-public.json```
+
 (You should now see the JSON config details)
 
 7. Click ```APPLY```
