@@ -50,17 +50,11 @@ BIG Thanks to the_vrSrc for the Database
 
 ## 📦 INSTALLING ROOKIE
 
-1. Move the downloaded .exe file into
+1. Move the downloaded .exe file into ```C:\RSL\Rookie```
 
-```C:\RSL\Rookie```
+2. Move the downloaded .json file into ```C:\RSL\Rookie```
 
-2. Move the downloaded .json file into
-
-```C:\RSL\Rookie```
-
-3. Run:
-
-```androidsideloader.exe```
+3. Run: ```androidsideloader.exe```
 
 4. Select ```PROVIDE PUBLIC CONFIG```
 
