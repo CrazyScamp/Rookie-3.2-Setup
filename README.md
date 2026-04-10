@@ -21,7 +21,7 @@
 <p>
   <a 
 href="https://github.com/VRPirates/rookie/releases/download/v3.1/AndroidSideloader.exe">
-    <img src="https://img.shields.io/badge/Download-Rookie-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Download-Rookie-gold?style=for-the-badge">
   </a>
   </p>
 
