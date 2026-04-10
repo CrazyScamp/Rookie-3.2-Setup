@@ -60,9 +60,7 @@ BIG Thanks to the_vrSrc for the Database
 
 5. Select ```FROM FILE```
 
-6. Select the ```vrp-public.json-```
-
-You should now see the Database Server details
+6. Select the ```vrp-public.json-``` (You should now see the JSON config details)
 
 7. Click ```APPLY-```
 
@@ -80,7 +78,5 @@ Rookie should now connect to the updated servers using the modified `vrp-public.
 ---
 
 ## ⚠️ NOTE
-
-This setup is **NOT related to VR Pirates**.
 
 This is **Rookie Sideloader** configured to use a **new database of games**.
