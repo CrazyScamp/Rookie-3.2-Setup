@@ -62,6 +62,15 @@ BIG Thanks to the_vrSrc for the Database
 
 ```androidsideloader.exe```
 
+4. Select ```PROVIDE PUBLIC CONFIG```
+
+5. Select ```FROM FILE```
+
+6. Select the ```vrp-public.json-```
+
+You should now see the Database Server details
+
+7. Click ```APPLY-```
 
 
 Rookie should now connect to the updated servers using the modified `vrp-public.json`.
