@@ -77,6 +77,16 @@ Rookie should now connect to the updated servers using the modified `vrp-public.
 
 ---
 
-## ⚠️ NOTE
+## ⚠️ PLEASE NOTE
 
 This is **Rookie Sideloader** configured to use a **new database of games**.
+
+---
+
+## ⚠️ FUTURE DATABASE CHANGES
+
+If you need to update the ```json config file``` 
+
+1. Open Rookie
+
+2. Click Setup
