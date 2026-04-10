@@ -60,9 +60,9 @@ BIG Thanks to the_vrSrc for the Database
 
 5. Select ```FROM FILE```
 
-6. Select the ```vrp-public.json-``` (You should now see the JSON config details)
+6. Select the ```vrp-public.json``` (You should now see the JSON config details)
 
-7. Click ```APPLY-```
+7. Click ```APPLY```
 
 
 Rookie should now connect to the updated servers using the modified `vrp-public.json`.
