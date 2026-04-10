@@ -35,7 +35,7 @@ If this is not possible "Right Click" Download Button and "Save Link As" This wi
 <br>
 <br>
 <p>
-  <a href="https://github.com/CrazyScamp/Rookie-3.0.1-Setup/releases/download/Rookie/vrp-public.json">
+  <a href="https://github.com/CrazyScamp/Rookie-Sideloader-Setup/releases/download/Rookie/vrp-public.json">
     <img src="https://img.shields.io/badge/Download-JSON-gold?style=for-the-badge">
   </a>
 </p>
