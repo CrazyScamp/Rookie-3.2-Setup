@@ -25,7 +25,7 @@ href="https://github.com/VRPirates/rookie/releases/download/v3.1/AndroidSideload
   </a>
   </p>
 
-** NOTES **
+**NOTES**
 <br>
 You may have to disable security for your browser to download (not always), if you arent sure how, google ```"how to shut off browser security for Chrome/Firefox/Opera/Whatever you use."```
 <br>
@@ -35,12 +35,12 @@ If this is not possible "Right Click" Download Button and "Save Link As" This wi
 <br>
 <br>
 <p>
-  <a href="https://github.com/CrazyScamp/Rookie-Sideloader-Setup/releases/download/Rookie/vrp-public.json">
+  <a href="https://github.com/CrazyScamp/Rookie-3.1-Setupreleases/download/Rookie/public.json">
     <img src="https://img.shields.io/badge/Download-JSON-gold?style=for-the-badge">
   </a>
 </p>
 
-** This .JSON File is updated with a new Database for Games **
+**This .JSON File is updated with a new Database for Games**
 
 BIG Thanks to the_vrSrc for the Database
 
@@ -60,14 +60,14 @@ BIG Thanks to the_vrSrc for the Database
 
 5. Select ```FROM FILE```
 
-6. Select the ```vrp-public.json```
+6. Select the ```public.json```
 
 (You should now see the JSON config details)
 
 7. Click ```APPLY```
 
 
-Rookie should now connect to the updated servers using the modified `vrp-public.json`.
+Rookie should now connect to the updated servers using the modified `public.json`.
 
 ---
 
