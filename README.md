@@ -20,7 +20,7 @@
 ##  ⏬ DOWNLOAD LINKS
 <p>
   <a 
-href="https://github.com/VRPirates/rookie/releases/download/v3.1/AndroidSideloader.exe">
+href="https://github.com/nerdunit/androidsideloader/releases/download/v3.2/AndroidSideloader.exe">
     <img src="https://img.shields.io/badge/Download-Rookie-gold?style=for-the-badge">
   </a>
   </p>
