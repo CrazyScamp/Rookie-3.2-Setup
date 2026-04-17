@@ -1,4 +1,4 @@
-# Rookie-3.1-Setup Guide
+# Rookie-3.2-Setup Guide
 
 ## 🛡 REAL TIME PROTECTION (Windows Defender Exclusion)
 
