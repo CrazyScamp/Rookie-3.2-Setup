@@ -1,9 +1,9 @@
 ## IMPORTANT
-Before you start Guide
+Before you start you need to get your headset ready
 <p>
   <a 
 href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
-<img src="https://img.shields.io/badge/Guide-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/Headset Setup Guide-gold?style=for-the-badge">
   </a>
   </p>
 
