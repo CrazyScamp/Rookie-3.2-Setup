@@ -7,6 +7,8 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
   </a>
   </p>
 
+  ---
+
 ## 🛡 REAL TIME PROTECTION (Windows Defender Exclusion)
 
 1. Open your **C: Drive**
