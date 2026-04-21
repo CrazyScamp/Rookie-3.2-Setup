@@ -1,5 +1,5 @@
-## IMPORTANT
-Before you start you need to get your headset ready
+## ⚠️ IMPORTANT
+Before you start if you haven't already you need to get your headset ready to sideload.
 <p>
   <a 
 href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
