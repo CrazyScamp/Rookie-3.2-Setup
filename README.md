@@ -1,6 +1,11 @@
 ## IMPORTANT
 Before you start Guide
+<p>
+  <a 
 href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
+<img src="https://img.shields.io/badge/Guide-gold?style=for-the-badge">
+  </a>
+  </p>
 
 ## 🛡 REAL TIME PROTECTION (Windows Defender Exclusion)
 
