@@ -1,7 +1,11 @@
 ## Important
-Before you start 
-
-
+Before you start Guide
+<p>
+  <a 
+href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
+<p>
+  <a
+    
 # Rookie-3.2-Setup Guide
 
 ## 🛡 REAL TIME PROTECTION (Windows Defender Exclusion)
