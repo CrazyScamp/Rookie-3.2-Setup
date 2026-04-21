@@ -1,3 +1,7 @@
+## Important
+Before you start 
+
+
 # Rookie-3.2-Setup Guide
 
 ## 🛡 REAL TIME PROTECTION (Windows Defender Exclusion)
