@@ -89,6 +89,10 @@ Rookie should now connect to the updated servers using the modified `public.json
 ---
 
 ## LOCATING UNKNOWN SOURCES
+
+Unknown Sources is where you find your sideloaded games.
+Click below for instructions 
+
 <p>
   <a 
 href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
