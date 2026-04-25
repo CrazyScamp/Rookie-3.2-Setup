@@ -89,11 +89,11 @@ Rookie should now connect to the updated servers using the modified `public.json
 ---
 
 ## LOCATING UNKNOWN SOURCES
-
+<p>
+  <a 
 href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
-
-    <img src="https://img.shields.io/badge/Finding-Unkown-Sources-gold?style=for-the-badge">
-</a>
+<img src="https://img.shields.io/badge/Locating Unknown Sources-gold?style=for-the-badge">
+  </a>
   </p>
 
 ---
