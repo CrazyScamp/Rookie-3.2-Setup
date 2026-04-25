@@ -88,6 +88,15 @@ Rookie should now connect to the updated servers using the modified `public.json
 
 ---
 
+## LOCATING UNKNOWN SOURCES
+
+href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
+    <img src="https://img.shields.io/badge/Locating-Unkown-Sources-gold?style=for-the-badge">
+  </a>
+  </p>
+
+
+
 ## ⚠️ PLEASE NOTE
 
 This is **Rookie Sideloader** configured to use a **new database of games**.
