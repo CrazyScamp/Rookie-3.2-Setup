@@ -3,7 +3,7 @@ Before you start! if you haven't already you need to get your headset ready for 
 <p>
   <a 
 href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
-<img src="https://img.shields.io/badge/Headset Setup Guide-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/Headset Setup Guide-blue?style=for-the-badge">
   </a>
   </p>
 
@@ -30,7 +30,7 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 <p>
   <a 
 href="https://github.com/nerdunit/androidsideloader/releases/download/v3.2/AndroidSideloader.exe">
-    <img src="https://img.shields.io/badge/Download-Rookie-gold?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Download-Rookie-blue?style=for-the-badge">
   </a>
   </p>
 
@@ -45,7 +45,7 @@ If this is not possible "Right Click" Download Button and "Save Link As" This wi
 <br>
 <p>
   <a href="https://github.com/CrazyScamp/Rookie-3.1-Setup/releases/download/public.json/public.json">
-    <img src="https://img.shields.io/badge/Download-JSON-gold?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Download-JSON-blue?style=for-the-badge">
   </a>
 </p>
 
@@ -96,7 +96,7 @@ Click below for instructions
 <p>
   <a 
 href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
-<img src="https://img.shields.io/badge/Locating Unknown Sources-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/Locating Unknown Sources-blue?style=for-the-badge">
   </a>
   </p>
 
